@@ -59,7 +59,7 @@ a {
 .profile {
   background-color: var(--clr-grey-dark-800);
   /*define a cor de fundo do perfil*/
-  width: 32rem; /*define uma largura fixa para o perfil*/
+  width: 40rem; /*define uma largura fixa para o perfil*/
   padding: 1.8rem; /*adicionar preenchimento interno*/
   border-radius: 0.8rem; /*arredonda os cantos*/
   text-align: center; /* centraliza o texto dentro do perfil*/
