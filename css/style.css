@@ -72,7 +72,7 @@ main {
 .profile header h2 {
   font-size: 1.4rem; /* Tamanho da fonte */
   font-weight: 600; /* Peso semi-negrito */
-  margin-top: 0.7rem; /* Margem superior */
+  margin-top: 0.8rem; /* Margem superior */
   color: var(--green); /* Cor verde */
 }
 
