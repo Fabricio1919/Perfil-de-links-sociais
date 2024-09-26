@@ -64,7 +64,7 @@ main {
 .profile header h1 {
   font-size: 2.3rem; /* Tamanho da fonte */
   font-weight: var(--fw-bold); /* Peso da fonte negrito */
-  margin-top: 2.8rem; /* Margem superior */
+  margin-top: 2.6rem; /* Margem superior */
   color: var(--white); /* Cor branca */
 }
 
