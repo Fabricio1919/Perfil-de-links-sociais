@@ -62,7 +62,7 @@ main {
 
 /* Estilo do título principal */
 .profile header h1 {
-  font-size: 2.3rem; /* Tamanho da fonte */
+  font-size: 2.2rem; /* Tamanho da fonte */
   font-weight: var(--fw-bold); /* Peso da fonte negrito */
   margin-top: 3rem; /* Margem superior */
   color: var(--white); /* Cor branca */
@@ -70,7 +70,7 @@ main {
 
 /* Estilo do subtítulo */
 .profile header h2 {
-  font-size: 1.4rem; /* Tamanho da fonte */
+  font-size: 1.2rem; /* Tamanho da fonte */
   font-weight: 600; /* Peso semi-negrito */
   margin-top: 1rem; /* Margem superior */
   color: var(--green); /* Cor verde */
