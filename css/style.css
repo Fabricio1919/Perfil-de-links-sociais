@@ -80,9 +80,9 @@ main {
 }
 
 .profile p {
-  margin-top: 2.5rem;
+  margin-top: 3rem;
   font-size: 1.2rem;
-  font-size: 1rem;
+
   font-weight: 400;
 
   color: var(--white);
