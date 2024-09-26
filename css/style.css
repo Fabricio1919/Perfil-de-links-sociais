@@ -72,13 +72,13 @@ main {
 .profile header h2 {
   font-size: 1.4rem; /* Tamanho da fonte */
   font-weight: 600; /* Peso semi-negrito */
-  margin-top: 0.5rem; /* Margem superior */
+  margin-top: 0.1rem; /* Margem superior */
   color: var(--green); /* Cor verde */
 }
 
 /* Estilo do parágrafo do perfil */
 .profile p {
-  margin-top: 3.5rem; /* Margem superior */
+  margin-top: 3rem; /* Margem superior */
   font-size: 1.2rem; /* Tamanho da fonte */
   font-weight: 400; /* Peso normal */
   color: var(--white); /* Cor branca */
