@@ -64,7 +64,7 @@ main {
 .profile header h1 {
   font-size: 2.3rem; /* Tamanho da fonte */
   font-weight: var(--fw-bold); /* Peso da fonte negrito */
-  margin-top: 3rem; /* Margem superior */
+  margin-top: 2.5rem; /* Margem superior */
   color: var(--white); /* Cor branca */
 }
 
@@ -78,7 +78,7 @@ main {
 
 /* Estilo do parágrafo do perfil */
 .profile p {
-  margin-top: 3rem; /* Margem superior */
+  margin-top: 3.5rem; /* Margem superior */
   font-size: 1.2rem; /* Tamanho da fonte */
   font-weight: 400; /* Peso normal */
   color: var(--white); /* Cor branca */
@@ -87,7 +87,7 @@ main {
 /* Contêiner dos links sociais */
 .social-links {
   width: 100%; /* Largura total */
-  margin-top: 3rem; /* Margem superior */
+  margin-top: 3.2rem; /* Margem superior */
 }
 
 /* Estilo do contêiner de navegação social */
