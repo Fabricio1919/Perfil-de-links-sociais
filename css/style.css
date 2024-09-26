@@ -29,8 +29,7 @@ body {
   justify-content: center; /* Centraliza o conteúdo horizontalmente */
   align-items: center; /* Centraliza o conteúdo verticalmente */
   font-family: inter, sans-serif; /* Aplica a fonte Inter */
-  height: 100vh; /* Altura da tela inteira */
-  min-width: 37rem; /* Largura mínima */
+  min-height: 100vh; /* Altura da tela inteira */
   background-color: var(--black); /* Cor de fundo preta */
 }
 
